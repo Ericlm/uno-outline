@@ -2,6 +2,8 @@
 
 <template>
   <main>
-    <div>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, necessitatibus?</div>
+    <div class="bg-pink text-white">
+      Lorem ipsum dolor sit amet consectetur adipisicing elit. Ullam, necessitatibus?
+    </div>
   </main>
 </template>
